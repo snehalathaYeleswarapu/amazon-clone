@@ -1,7 +1,11 @@
-amazon-clone
-# Getting Started with Create React App
+# Getting Started with Create React App 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). to build the amazon clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Hosted amazon clone 
+https://clone-sneha.web.app
+
+Project console
+https://console.firebase.google.com/project/clone-sneha/overview
 
 ## Available Scripts
 
@@ -12,7 +16,7 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
+The page will reload if you make edits.
 You will also see any lint errors in the console.
 
 ### `npm test`
@@ -27,6 +31,10 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
+
+You may serve it with static server--> npm install -g serve after building (or) serve -s build
+
+Reference to know more about the deployment--> https://cra.link/deployment
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
